@@ -1,2 +1,2 @@
 # Bomber
-android version of Bomber
+the android version of Bomber
